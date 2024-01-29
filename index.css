@@ -1,0 +1,161 @@
+#title {
+    text-align: center;
+    background-color: aqua;
+    
+    
+}
+
+.profile {
+    display: flex;
+    justify-content: space-between;
+    margin: 0% 5% 0% 5%;
+
+}
+
+#nom {
+    text-align: center ;
+}
+
+#profil {
+    text-align: center ;
+}
+
+#img{
+    width: 25%;
+    height: 15%;
+   /* margin: 0% 50% 0% 37%;*/
+
+}
+.flexe {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    row-gap: 5px;
+    
+    
+}
+
+#taille {
+    width: 22%;
+    height: 22%;
+}
+
+#flexe1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    row-gap: 5px;
+    
+    
+    
+    
+    
+}
+
+#taille6 {
+    width: 25%;
+    height: 25%;
+    margin: 2% 5% 0% 15%;
+}
+
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    }
+
+    #taille1 {
+        width: 20%;
+        height: 20%;
+    }
+
+    .logo1 {
+        display: flex; 
+        align-items: center;
+        justify-content: space-between;
+       }
+    
+        #taille1 {
+            width: 20%;
+            height: 20%;
+        }
+        .logo2 {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            }
+        
+            #taille2 {
+                width: 20%;
+                height: 20%;
+            }
+
+            .flyers {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                }
+            
+                #taille3 {
+                    width: 30%;
+                    height: 30%;
+                }
+                #taille32 {
+                    
+                    width: 30%;
+                    height: 30%;
+                    margin: 2% 5% 0% 5%;
+
+                }
+
+                .videos {
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+                    }
+                
+                    #taille4 {
+                       
+                        width: 25%;
+                        height: 25%;
+                        margin: 0% 20% 0% 10%;
+                    }
+
+                    .art {
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                        }
+                    
+                        #taille5 {
+                            width: 24%;
+                            height: 24%;
+                        }
+
+    .mag {display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 0% 35% 0% 35%;
+    }
+
+    #circle{
+        width : 150px;
+        height : 150px;
+        background : rgb(3, 255, 99);
+        -moz-border-radius : 25px;
+        -webkit-border-radius : 25px;
+        border-radius : 75px;  /* ou 50% */
+      }
+
+
+      .design{font-family: monospace;
+        font-size: 14px;
+
+      }
+
+      .ux {display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 0% 48% 0% 48%;
+    }
